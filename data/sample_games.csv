@@ -1,0 +1,7 @@
+game_id,game_name,platform,genre,business_model,avg_session_minutes,daily_task_minutes,payment_entry_points,lootbox_presence,fomo_event_frequency,price_obfuscation,odds_disclosure,parental_control_support
+g001,Star Quest Mobile,Mobile,RPG,F2P,35,90,82,1,85,70,45,35
+g002,Kingdom Tactics,PC,SLG,Hybrid,55,75,60,1,65,58,60,50
+g003,Pocket Farm Lite,Mobile,Casual,F2P,18,25,30,0,20,25,80,70
+g004,Arena Blitz,Console,FPS,P2P,40,30,15,0,10,20,85,75
+g005,Mythic Cards,Mobile,Card,F2P,28,70,88,1,90,78,40,30
+g006,City Builder Pro,PC,Simulation,Subscription,32,45,22,0,25,35,88,80
